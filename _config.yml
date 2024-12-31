@@ -13,34 +13,27 @@ people:
   pic: 1
   position: Diretor Executivo
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/francismararaujo/
 
 - name: Vanessa Cristina
   pic: 2
   position: Diretora de Recursos Humanos
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-#- name: Mateus Sá
-#  pic: 3
-#  position: Diretor de Design
-#  social:
 #    - title: twitter
 #      url: #
 #    - title: facebook
 #      url: #
-#    - title: google-plus
-#      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/vanessa-cristina-1%C2%B0-61b673136/
+
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
