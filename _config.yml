@@ -11,7 +11,7 @@ description: "Oferecemos soluções completas de projetos para empresas e empree
 people:
 - name: Francismar Araujo
   pic: 1
-  position: Diretor Executivo
+  position: Chief Executive Officer
   social:
 #    - title: twitter
 #      url: #
@@ -24,7 +24,7 @@ people:
 
 - name: Vanessa Cristina
   pic: 2
-  position: Diretora de Recursos Humanos
+  position: Chief Human Resources Officer
   social:
 #    - title: twitter
 #      url: #
@@ -35,7 +35,7 @@ people:
 
 - name: Mateus Sá
   pic: 3
-  position: Diretor de Design
+  position: Chief Design Officer
   social:
 #    - title: twitter
 #      url: #
