@@ -9,9 +9,9 @@ description: "Oferecemos soluções completas de projetos para empresas e empree
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Francismar Araujo
   pic: 1
-  position: Lead Designer
+  position: Diretor Executivo
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Vanessa Cristina
   pic: 2
-  position: Lead Marketer
+  position: Diretora de Recursos Humanos
   social:
     - title: twitter
       url: #
@@ -31,34 +31,34 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+#- name: Mateus Sá
+#  pic: 3
+#  position: Diretor de Design
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+#  - title: twitter
+#    url: http://twitter.com/hubxwork
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/hubxwork
+#  - title: bitbucket 
+#    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/hubx-work
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Av Marechal Castelo Branco 445
+  - line: Contagem, MG
 
 # Build settings
 markdown: kramdown
