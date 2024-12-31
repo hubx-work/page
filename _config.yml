@@ -33,6 +33,16 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/vanessa-cristina-1%C2%B0-61b673136/
 
+- name: Mateus Sá
+  pic: 3
+  position: Diretor de Design
+  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/mateus-s%C3%A1-a96584157/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
