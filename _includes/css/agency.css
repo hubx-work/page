@@ -71,12 +71,12 @@ h6 {
 }
 
 .btn-primary {
-    border-color: #{{ site.data.template.color.secondary }};
+    border-color: #fff;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #000;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #fff;
 }
 
 .btn-primary:hover,
@@ -84,9 +84,9 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #{{ site.data.template.color.secondary }};
+    border-color: #fff;
     color: #000;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #fff;
 }
 
 .btn-primary:active,
@@ -136,9 +136,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    border-color: #fff;
+    color: #000;
+    background-color: #fff;
 }
 
 .btn-xl:active,
@@ -185,7 +185,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #{{ site.data.template.color.secondary }};
+    color: #fff;
 }
 
 .navbar-default .navbar-collapse {
