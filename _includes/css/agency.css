@@ -7,7 +7,7 @@
 body {
     overflow-x: hidden;
     font-family: Helvetica Now Display,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,BlinkMacSystemFont,Oxygen,Open Sans,Helvetica Neue;
-    color: #{{ site.data.template.color.secondary-dark }};
+    color: #{{ site.data.template.color.primary }};
     background-color:#000;
 }
 
@@ -71,12 +71,12 @@ h6 {
 }
 
 .btn-primary {
-    border-color: #{{ site.data.template.color.primary }};
+    border-color: #{{ site.data.template.color.secondary }};
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
-    color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    color: #000;
+    background-color: #{{ site.data.template.color.secondary }};
 }
 
 .btn-primary:hover,
@@ -84,8 +84,8 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+    border-color: #{{ site.data.template.color.secondary }};
+    color: #000;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
