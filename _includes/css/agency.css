@@ -15,10 +15,6 @@ body {
     background-color:#000;
 }
 
-.text-muted {
-    color: #{{ site.data.template.color.muted }};
-}
-
 .text-primary {
     color: #{{ site.data.template.color.primary }};
 }
@@ -87,6 +83,13 @@ h6 {
 
 .bg-darkest-gray {
     background-color: #000;
+}
+
+.bg-darkest-gray .text-muted {
+    background-image: radial-gradient(120.96% 120.96% at 50% -20.96%, #696969 0%, hsla(0, 0%, 100%, .78) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;    
 }
 
 .btn-primary {
@@ -368,10 +371,6 @@ section h3.section-subheading {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: normal;
-    background-image: radial-gradient(120.96% 120.96% at 50% -20.96%, #696969 0%, hsla(0, 0%, 100%, .78) 100%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;    
 }
 
 @media(min-width:768px) {
