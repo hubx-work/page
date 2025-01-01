@@ -69,27 +69,13 @@ h6 {
 .bg-light-gray h2,
 .bg-light-gray h4{
     color:#000;
-    /*
-    background: radial-gradient(132.61% 97.97% at 91.81% 2.03%,#ffdf80 0%,rgba(252,87,110,0) 100%),radial-gradient(69.89% 67.91% at 0% 97.34%,#f76751 0%,rgba(252,87,110,0) 100%),radial-gradient(87.41% 84.93% at 57.86% 107.62%,#7174c7 0%,rgba(252,87,110,0) 100%),radial-gradient(71.17% 69.15% at 6.69% 5.32%,#ffa57a 0%,rgba(252,87,110,0) 100%),#fc576e;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    */
 }
-
 
 .bg-darkest-gray {
     background-color: #000;
 }
 
 .text-muted {
-    background-image: radial-gradient(120.96% 120.96% at 50% -20.96%, #696969 0%, hsla(0, 0%, 100%, .78) 100%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;    
-}
-
-.bg-light-gray .text-muted {
     color: #{{ site.data.template.color.muted }} !important;
 }
 
