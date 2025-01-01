@@ -4,9 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+body, html{
+    font-family: Helvetica Now Display,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,BlinkMacSystemFont,Oxygen,Open Sans,Helvetica Neue;
+}
+
 body {
     overflow-x: hidden;
-    font-family: Helvetica Now Display,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,BlinkMacSystemFont,Oxygen,Open Sans,Helvetica Neue;
+    
     color: #{{ site.data.template.color.primary }};
     background-color:#000;
 }
@@ -66,6 +70,7 @@ h6 {
     background-color: #f7f7f7;
 }
 
+/*
 h2,
 h4{
     background: radial-gradient(132.61% 97.97% at 91.81% 2.03%,#ffdf80 0%,rgba(252,87,110,0) 100%),radial-gradient(69.89% 67.91% at 0% 97.34%,#f76751 0%,rgba(252,87,110,0) 100%),radial-gradient(87.41% 84.93% at 57.86% 107.62%,#7174c7 0%,rgba(252,87,110,0) 100%),radial-gradient(71.17% 69.15% at 6.69% 5.32%,#ffa57a 0%,rgba(252,87,110,0) 100%),#fc576e;
@@ -73,6 +78,7 @@ h4{
     background-clip: text;
     -webkit-text-fill-color: transparent;    
 }
+*/
 
 .bg-darkest-gray {
     background-color: #000;
