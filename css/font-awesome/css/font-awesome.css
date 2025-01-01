@@ -155,12 +155,13 @@
   filter: none;
 }
 .fa-stack {
-  position: relative;
-  display: inline-block;
-  width: 2em;
-  height: 2em;
-  line-height: 2em;
-  vertical-align: middle;
+    position: relative;
+    display: inline-block;
+    width: 2.7em;
+    height: 2.5em;
+    line-height: 2.5em;
+    vertical-align: middle;
+    margin: 50px;
 }
 .fa-stack-1x,
 .fa-stack-2x {
@@ -176,7 +177,11 @@
   font-size: 2em;
 }
 .fa-inverse {
-  color: #ffffff;
+    color: #fff;
+    background-color: #000;
+    border-radius: 50%;
+    padding: 0px;
+    margin: 0px;
 }
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
