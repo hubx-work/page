@@ -11,24 +11,6 @@ body {
     background-color:#000;
 }
 
-.fa-stack {
-    position: relative;
-    display: inline-block;
-    width: 2.7em;
-    height: 2.5em;
-    line-height: 2.5em;
-    vertical-align: middle;
-    margin: 50px;
-}
-
-.fa-inverse {
-    color: #fff;
-    background-color: #000;
-    border-radius: 50%;
-    padding: 0px;
-    margin: 0px;
-}
-
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
