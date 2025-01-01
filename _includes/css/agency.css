@@ -667,7 +667,7 @@ section h3.section-subheading {
 aside.clients img {
     margin: 50px auto;
 }
-
+/*
 section#contact {
     background-color: #000;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
@@ -675,9 +675,11 @@ section#contact {
     background-repeat: no-repeat;
 }
 
+
 section#contact .section-heading {
     color: #fff;
 }
+*/
 
 section#contact .form-group {
     margin-bottom: 25px;
