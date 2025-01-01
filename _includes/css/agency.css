@@ -71,7 +71,6 @@ h6 {
 }
 
 .bg-light-gray h2,
-.bg-light-gray h3,
 .bg-light-gray h4{
     color:#000;
     /*
@@ -80,6 +79,10 @@ h6 {
     background-clip: text;
     -webkit-text-fill-color: transparent;
     */
+}
+
+.bg-light-gray .text-muted {
+    color: #{{ site.data.template.color.muted }} !important;
 }
 
 .bg-darkest-gray {
