@@ -68,11 +68,22 @@ h6 {
 
 .bg-light-gray h2,
 .bg-light-gray h4{
-    color: #000;
+    background: var(--gradient-radial-watermelon);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;    
 }
 
 .bg-darkest-gray {
     background-color: #000;
+}
+
+.bg-darkest-gray h2,
+.bg-darkest-gray h4{
+    background: var(--gradient-radial-watermelon);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;    
 }
 
 .btn-primary {
