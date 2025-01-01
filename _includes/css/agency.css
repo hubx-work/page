@@ -77,19 +77,20 @@ h6 {
     */
 }
 
-.bg-light-gray .text-muted {
-    color: #{{ site.data.template.color.muted }} !important;
-}
 
 .bg-darkest-gray {
     background-color: #000;
 }
 
-.bg-darkest-gray .text-muted {
+.text-muted {
     background-image: radial-gradient(120.96% 120.96% at 50% -20.96%, #696969 0%, hsla(0, 0%, 100%, .78) 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;    
+}
+
+.bg-light-gray .text-muted {
+    color: #{{ site.data.template.color.muted }};
 }
 
 .btn-primary {
