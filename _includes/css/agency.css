@@ -741,6 +741,12 @@ section#contact .text-danger {
     color: #e74c3c;
 }
 
+section#contact .btn-xl{
+    background-color:#000;
+    color:#fff;
+    margin-top:50px;
+}
+
 footer {
     padding: 25px 0;
     text-align: center;
