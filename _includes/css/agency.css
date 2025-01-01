@@ -692,10 +692,16 @@ section#contact .form-group textarea {
 
 section#contact .form-group input.form-control {
     height: auto;
+    color: #000;
+    border-color: #000;
+    background-color: transparent;
 }
 
 section#contact .form-group textarea.form-control {
     height: 236px;
+    color: #000;
+    border-color: #000;
+    background-color: transparent;
 }
 
 section#contact .form-control:focus {
