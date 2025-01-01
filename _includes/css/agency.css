@@ -66,6 +66,10 @@ h6 {
     background-color: #f7f7f7;
 }
 
+.bg-light-gray h2 {
+    color: #000;
+}
+
 .bg-darkest-gray {
     background-color: #000;
 }
