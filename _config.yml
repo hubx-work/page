@@ -3,15 +3,15 @@ baseurl: /
 
 # Site settings
 title: X-HUB
-email: hubx.email@gmail.com
-description: "Oferecemos soluções completas de projetos para empresas e empreendedores. Desde a concepção até a execução, nossa equipe especializada garante o sucesso do seu projeto com eficiência, inovação e personalização. Descubra como podemos ajudar a transformar suas ideias em realidade com expertise e dedicação."
+email: hello@x-hub.co
+description: "We offer comprehensive project solutions for businesses and entrepreneurs. From conception to execution, our specialized team ensures the success of your project with efficiency, innovation, and customization. Discover how we can help turn your ideas into reality with expertise and dedication."
 
 
 # Team names, titles and social links
 people:
 - name: Francismar Araujo
   pic: 1
-  position: Chief Technology Officer
+  position: Engineering Studio
   social:
 #    - title: twitter
 #      url: #
@@ -24,7 +24,7 @@ people:
 
 - name: Vanessa Cristina
   pic: 2
-  position: Chief Human Resources Officer
+  position: Central Studio
   social:
 #    - title: twitter
 #      url: #
@@ -35,7 +35,7 @@ people:
 
 - name: Mateus Sá
   pic: 3
-  position: Chief Design Officer
+  position: Design Studio
   social:
 #    - title: twitter
 #      url: #
