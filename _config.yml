@@ -53,10 +53,10 @@ social:
 #    url:
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/hubxwork
-#  - title: bitbucket 
-#    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/hubx-work
+  - title: instagram
+    url: https://www.instagram.com/xhubcollabs/
+  - title: linkedin
+    url: https://www.linkedin.com/company/xhubcollabs
 
 # Postal address (add as many lines as necessary)
 address:
