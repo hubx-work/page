@@ -36,19 +36,20 @@ a.active {
     outline: 0;
 }
 
-.bg-light-gray a,
-.bg-light-gray a:hover,
-.bg-light-gray a:focus,
-.bg-light-gray a:active,
-.bg-light-gray a.active {
+.modal a,
+.modal a:hover,
+.modal a:focus,
+.modal a:active,
+.modal a.active {
     color: #000;
 }
 
-a:hover,
-a:focus,
-a:active,
-a.active {
-    color: #{{ site.data.template.color.secondary }};
+.bg-darkest-gray a,
+.bg-darkest-gray a:hover,
+.bg-darkest-gray a:focus,
+.bg-darkest-gray a:active,
+.bg-darkest-gray a.active {
+    color: #fff;
 }
 
 h1,
