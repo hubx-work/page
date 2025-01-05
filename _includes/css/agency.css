@@ -36,7 +36,11 @@ a.active {
     outline: 0;
 }
 
-a {
+.bg-light-gray a,
+.bg-light-gray a:hover,
+.bg-light-gray a:focus,
+.bg-light-gray a:active,
+.bg-light-gray a.active {
     color: #000;
 }
 
