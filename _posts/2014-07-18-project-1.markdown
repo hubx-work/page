@@ -11,6 +11,6 @@ project-date: Jan 2024
 client: Drogaria Araujo
 url: https://www.araujo.com.br
 category: Engineering Management
-description: X-HUB provided software engineering management services to Drogaria Araujo, focusing on overseeing the development and implementation of software solutions. Our team managed project planning, coordinated resources, and ensured timely delivery of high-quality software products. We worked closely with the client to align the solutions with their business goals, optimizing development processes and enhancing overall system performance to meet their specific needs.
+description: We led significant improvements in processes and delivery quality for the Clique Retire development team. The company implemented the PDCA cycle (Plan-Do-Check-Act) to optimize and standardize development processes, increasing efficiency and quality. It developed a pipeline for automated release publishing using the VMware Tanzu Platform in collaboration with the architecture team, enabling effective application scaling. We also enhanced code quality by increasing unit test coverage and continuous monitoring with SonarQube, resulting in more robust code. Additionally, the company strengthened observability and performance metrics, ensuring high-quality deliveries aligned with business goals.
 
 ---
