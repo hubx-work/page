@@ -44,11 +44,11 @@ a.active {
     color: #000;
 }
 
-.bg-darkest-gray a,
-.bg-darkest-gray a:hover,
-.bg-darkest-gray a:focus,
-.bg-darkest-gray a:active,
-.bg-darkest-gray a.active {
+footer a,
+footer a:hover,
+footer a:focus,
+footer a:active,
+footer a.active {
     color: #fff;
 }
 
