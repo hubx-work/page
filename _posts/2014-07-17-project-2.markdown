@@ -11,6 +11,6 @@ project-date: Jun 2018
 client: Teknisa Software
 url: https://www.teknisa.com/sistema-para-restaurante/
 category: Engineering Management
-description: X-HUB provided software engineering management services to Teknisa Software, focusing on overseeing the development and implementation of software solutions. Our team managed project planning, coordinated resources, and ensured timely delivery of high-quality software products. We worked closely with the client to align the solutions with their business goals, optimizing development processes and enhancing overall system performance to meet their specific needs.
+description: We managed the retail vertical, leading a multidisciplinary team of around 40 professionals and driving initiatives to improve product quality and operational efficiency. The company handled all aspects of team management, including hiring, onboarding, promotions, and terminations, fostering a safe and inclusive work environment. It developed and implemented methodologies to align team efforts with business goals, while collaborating closely with engineering teams to develop innovative features and improve product performance. Additionally, we led the design and evolution of internal products, focused on system architecture, and implemented strategies for adopting new technologies. The company also optimized product development processes, enhancing collaboration and promoting a strong DevOps culture.
 
 ---
