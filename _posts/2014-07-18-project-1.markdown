@@ -9,6 +9,7 @@ thumbnail: drogaria-araujo-clique-retire.png
 alt: Drogaria Araujo - Clique Retire
 project-date: Jan 2024
 client: Drogaria Araujo
+url: https://www.araujo.com.br
 category: Engineering Management
 description: X-HUB provided software engineering management services to Drogaria Araujo, focusing on overseeing the development and implementation of software solutions. Our team managed project planning, coordinated resources, and ensured timely delivery of high-quality software products. We worked closely with the client to align the solutions with their business goals, optimizing development processes and enhancing overall system performance to meet their specific needs.
 
