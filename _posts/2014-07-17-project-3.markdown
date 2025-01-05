@@ -11,6 +11,6 @@ project-date: Jun 2021
 client: Magazine Luiza(Magalu)
 url: https://www.magazineluiza.com.br
 category: Product Management
-description: We led strategic integrations and fostered a product-focused culture to improve customer engagement and team performance. The company managed the integration of VIPCommerce clients with the Magalu SuperApp and AiqFome, expanding sales channels and facilitating access to the Magalu ecosystem. Additionally, X-HUB formed and structured a multidisciplinary team, optimizing workflows and defining roles to maximize efficiency. We also implemented best practices and techniques to strengthen the development of the product team.
+description: We led strategic integrations and fostered a product-focused culture to improve customer engagement and team performance. The company managed the integration of VIPCommerce clients with the Magalu SuperApp and AiqFome, expanding sales channels and facilitating access to the Magalu ecosystem. Additionally, we formed and structured a multidisciplinary team, optimizing workflows and defining roles to maximize efficiency. We also implemented best practices and techniques to strengthen the development of the product team.
 
 ---
