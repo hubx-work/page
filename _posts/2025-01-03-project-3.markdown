@@ -3,7 +3,7 @@ title: Magazine Luiza(Magalu)
 subtitle: SuperApp Magalu
 layout: default
 modal-id: 3
-date: 2021-06-01
+date: 2025-01-03
 img: magalu-superapp.png
 thumbnail: magalu-superapp.png
 alt: SuperApp Magalu
