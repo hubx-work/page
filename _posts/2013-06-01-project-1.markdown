@@ -1,0 +1,16 @@
+---
+title: Abaporu - Laura Lopes
+subtitle: Nominated for a Latin Grammy in 2013 in the category of Best Graphic Design
+layout: default
+modal-id: 1
+date: 2013-06-01
+img: abaporu.jpg
+thumbnail: abaporu.jpg
+alt: Abaporu - Laura Lopes
+project-date: Jun 2013
+client: Fundação Clóvis Salgado, Fescurtas BH
+url: https://fcs.mg.gov.br
+category: Printing Design / Package Design
+description: The graphic design of singer Laura Lopes’ first album was inspired by the delicacy of the lyrics and arrangements, alluding to concrete poetry. It also features illustrations made by artist Ana Rocha, in a process that combined the production of stamps and the use of typewriters. After an intensive research process on different finishes and materials to best convey the album’s sound refinement, we developed a design that merges text and image through slides in the booklet, using specific printing techniques and paper textures for the record sleeve.
+
+---
