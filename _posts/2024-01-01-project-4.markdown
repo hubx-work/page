@@ -3,7 +3,7 @@ title: Belo Horizonte International Short Film Festival - 18th Edition
 subtitle: Project developed in partnership with Estúdio Lampejo
 layout: default
 modal-id: 4
-date: 2025-01-04
+date: 2024-01-01
 img: short-film-festival.jpg
 thumbnail: short-film-festival.jpg
 alt: Belo Horizonte International Short Film Festival - 18th Edition
