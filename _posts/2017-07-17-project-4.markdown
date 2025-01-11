@@ -1,0 +1,16 @@
+---
+title: Belo Horizonte International Short Film Festival - 18th Edition
+subtitle: Project developed in partnership with Estúdio Lampejo
+layout: default
+modal-id: 4
+date: 2017-06-01
+img: short-film-festival.jpg
+thumbnail: short-film-festival.jpg
+alt: Belo Horizonte International Short Film Festival - 18th Edition
+project-date: Jun 2017
+client: Fundação Clóvis Salgado, Fescurtas BH
+url: https://fcs.mg.gov.br
+category: Editorial Design | Printing Design
+description: The Belo Horizonte International Short Film Festival, held annually by the Clóvis Salgado Foundation, is a prominent part of the city’s cultural calendar. In its 18th edition, the Festival screened 136 films selected from over 2,500 entries worldwide. This edition was marked by a strong return to analog experimentations in film, as well as new approaches to expanded cinema. We were invited to create the Festival’s visual identity, with the challenge of translating and promoting these aesthetics to a broader audience. A series of patterns were created using oil-based ink and water, suggesting similarities with chemical surfaces of film, light, and pigment, as well as geographical and cartographic imagery. These sensuous and dramatic patterns were featured across all printed, digital, and environmental materials.
+
+---
