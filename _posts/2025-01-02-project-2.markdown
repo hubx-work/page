@@ -3,7 +3,7 @@ title: Teknisa Software
 subtitle: Retail
 layout: default
 modal-id: 2
-date: 2018-06-01
+date: 2025-01-02
 img: teknisa-software-retail.png
 thumbnail: teknisa-software-retail.png
 alt: Teknisa Software Retail
