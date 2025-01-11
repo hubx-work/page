@@ -3,7 +3,7 @@ title: Abaporu - Laura Lopes
 subtitle: Nominated for a Latin Grammy in 2013 in the category of Best Graphic Design
 layout: default
 modal-id: 1
-date: 2013-06-01
+date: 2025-01-01
 img: abaporu.jpg
 thumbnail: abaporu.jpg
 alt: Abaporu - Laura Lopes
