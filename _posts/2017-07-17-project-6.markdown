@@ -1,0 +1,16 @@
+---
+title: In Our Shoes Walking Tours
+subtitle: Website
+layout: default
+modal-id: 6
+date: 2021-06-01
+img: in-our-shoes-walking-tours.jpg
+thumbnail: in-our-shoes-walking-tours.jpg
+alt: In Our Shoes Walking Tours
+project-date: Jun 2021
+client: In Our Shoes Walking Tours
+url: https://inourshoeswalkingtours.ie/
+category: Web Design
+description: For the In Our Shoes Walking Tours website, we designed a clean, modern, and user-friendly interface, making tour bookings seamless and easy. The design emphasised simplicity and clarity, using immersive visuals to showcase the tour experience. As a social enterprise, In Our Shoes Walking Tours focuses on creating training and employment opportunities in Dublin 8, while offering visitors a unique way to explore the local community. As the lead designer at VM Digital, We ensured the website communicated both the tour’s value and its social mission, seamlessly integrating design with functionality to engage visitors and support the enterprise’s goals.
+
+---
